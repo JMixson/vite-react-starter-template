@@ -19,8 +19,6 @@ This project uses the React app template files from Vite.
   - Added Dotenv environment variable
 - Modified .eslintrc.cjs file
   - Added to prevent certain errors
-- Modified vite.config.js file
-  - Added to prevent certain errors
 
 (\*) The README-template.md file uses a slightly modified version of the [Best README Template](https://github.com/othneildrew/Best-README-Template) by [othneildrew](https://github.com/othneildrew).
 
