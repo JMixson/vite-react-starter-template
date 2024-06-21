@@ -12,8 +12,6 @@ This project uses the React app template files from Vite.
 
 ### Changes
 
-- Added .babelrc file
-  - Added to prevent certain errors
 - (\*) Added README-template.md file
 - Added `components`, `features`, `pages`, and `util` folders to `src` folder
 - Modified README.md file
