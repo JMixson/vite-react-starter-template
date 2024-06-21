@@ -57,6 +57,7 @@ Must use Node v18 or later.
 ## Acknowledgments
 
 - [Best README Template](https://github.com/othneildrew/Best-README-Template) by [othneildrew](https://github.com/othneildrew)
+- [Img Shields](https://shields.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
