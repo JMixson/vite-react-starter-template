@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Vite React Starter Template
+# Vite React Starter Template with TailwindCSS
 
 A modified version of the starter files provided by Vite for React.
 
@@ -8,7 +8,7 @@ A modified version of the starter files provided by Vite for React.
 
 ## About The Project
 
-This project uses the React app template files from Vite.
+This project uses the React app template files from Vite. Includes code for TailwindCSS.
 
 ### Changes
 
@@ -19,6 +19,12 @@ This project uses the React app template files from Vite.
   - Added Dotenv environment variable
 - Modified .eslintrc.cjs file
   - Turned react prop-types off
+- Added TailwindCSS
+  - Followed docs [installation guide](https://tailwindcss.com/docs/guides/vite)
+    - Added tailwind.config.js
+    - Added postcss.config.js
+- Installed Prettier plugin for TailwindCSS
+  - Added .prettierrc
 
 (\*) The README-template.md file uses a slightly modified version of the [Best README Template](https://github.com/othneildrew/Best-README-Template) by [othneildrew](https://github.com/othneildrew).
 
@@ -28,6 +34,8 @@ This project uses the React app template files from Vite.
 
 [![Vite][Vite]][Vite-url]
 [![React][React.js]][React-url]
+[![Tailwindcss][Tailwindcss]][Tailwindcss-url]
+[![Prettier][Prettier]][Prettier-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,6 +66,7 @@ Must use Node v18 or later.
 
 - [Best README Template](https://github.com/othneildrew/Best-README-Template) by [othneildrew](https://github.com/othneildrew)
 - [Img Shields](https://shields.io/)
+- [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) by [tailwindlabs](https://github.com/tailwindlabs)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,3 +77,7 @@ Must use Node v18 or later.
 [React-url]: https://reactjs.org/
 [Vite]: https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite
 [Vite-url]: https://vitejs.dev/
+[Tailwindcss]: https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss
+[Tailwindcss-url]: https://tailwindcss.com/
+[Prettier]: https://img.shields.io/badge/Prettier-20232A?style=for-the-badge&logo=Prettier
+[Prettier-url]: https://prettier.io/
